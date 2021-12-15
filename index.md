@@ -21,29 +21,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 2. Major Topic Redux
+## 2. Using redux-saga-test-plan
 
-### 1 Start Redux Analogy
-<iframe src="https://player.vimeo.com/video/656287294" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Introduction to Testing Redux Sagas
+<iframe src="https://player.vimeo.com/video/656457655" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Completing Our Analogy
-<iframe src="https://player.vimeo.com/video/656288754" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Introduction to redux-saga-test-plan
+<iframe src="https://player.vimeo.com/video/656457960" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Mapping Our Analogy With Redux
-<iframe src="https://player.vimeo.com/video/656290421" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Introduction to logErrorToast Saga
+<iframe src="https://player.vimeo.com/video/656458217" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Writing Action Creators
-<iframe src="https://player.vimeo.com/video/656291198" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 First Saga Test
+<iframe src="https://player.vimeo.com/video/656458410" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Writing Reducers Part-1
-<iframe src="https://player.vimeo.com/video/656292883" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Code Quiz! Non-Error Toast
+<iframe src="https://player.vimeo.com/video/656459185" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Writing Reducers Part-2
-<iframe src="https://player.vimeo.com/video/656294169" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 Partial Assertions
+<iframe src="https://player.vimeo.com/video/656459542" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 7 Completing Our Analogy's Code
-<iframe src="https://player.vimeo.com/video/656295827" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+### 7 Review redux-saga-test-plan Introduction
+<iframe src="https://player.vimeo.com/video/656459925" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
