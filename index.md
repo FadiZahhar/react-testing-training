@@ -4,6 +4,140 @@ You can use the [editor on GitHub](https://github.com/FadiZahhar/react-testing-t
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+## 1. Introduction
+
+### 1 Welcome and Introduction
+<iframe src="https://player.vimeo.com/video/656456761" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Popular Music Venue app
+<iframe src="https://player.vimeo.com/video/656457011" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 How to Get Help
+<iframe src="https://player.vimeo.com/video/656457487" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Choice Point! Redux Saga or React Router
+<iframe src="https://player.vimeo.com/video/656457590" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## 2. Major Topic Redux
+
+### 1 Start Redux Analogy
+<iframe src="https://player.vimeo.com/video/656287294" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Completing Our Analogy
+<iframe src="https://player.vimeo.com/video/656288754" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Mapping Our Analogy With Redux
+<iframe src="https://player.vimeo.com/video/656290421" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Writing Action Creators
+<iframe src="https://player.vimeo.com/video/656291198" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Writing Reducers Part-1
+<iframe src="https://player.vimeo.com/video/656292883" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Writing Reducers Part-2
+<iframe src="https://player.vimeo.com/video/656294169" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Completing Our Analogy's Code
+<iframe src="https://player.vimeo.com/video/656295827" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
+## 3. WebPack Setup
+
+### 1 Create WebPack Dev and Production files
+<iframe src="https://player.vimeo.com/video/656297325" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 WebPack Base, Dev & Prod files(13)
+<iframe src="https://player.vimeo.com/video/656298204" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 WebPack Base, Dev & Prod files(23)
+<iframe src="https://player.vimeo.com/video/656300012" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 WebPack Base, Dev & Prod files(33)
+<iframe src="https://player.vimeo.com/video/656301727" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
+## 4. Writing-Firebase-Running
+
+### 1 Write Some More Firebase Functions
+<iframe src="https://player.vimeo.com/video/656304236" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Run The Development Server
+<iframe src="https://player.vimeo.com/video/656305615" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Write Admin Firebase Functions (12)
+<iframe src="https://player.vimeo.com/video/656307137" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Write Admin Firebase Functions (22)
+<iframe src="https://player.vimeo.com/video/656309503" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
+## 5. Installing Packages
+
+### 1 Install Different Packages
+<iframe src="https://player.vimeo.com/video/656310900" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Write AdminClientPublic Routes
+<iframe src="https://player.vimeo.com/video/656314112" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Write App Router
+<iframe src="https://player.vimeo.com/video/656320025" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## 6. Writing Action Creators
+
+### 1 App & Auth Action Creators (16)
+<iframe src="https://player.vimeo.com/video/656325713" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Basket & Checkout Action Creators (26)
+<iframe src="https://player.vimeo.com/video/656327889" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Filter Action Creator (36)
+<iframe src="https://player.vimeo.com/video/656328619" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Product Action Creator (46)
+<iframe src="https://player.vimeo.com/video/656329337" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Profile Action Creator (56)
+<iframe src="https://player.vimeo.com/video/656329990" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Users Action Creator (66)
+<iframe src="https://player.vimeo.com/video/656330718" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## 7. Writing Reducers
+
+### 1 App Reducer (16)
+<iframe src="https://player.vimeo.com/video/656330857" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Basket Reducer (26)
+<iframe src="https://player.vimeo.com/video/656331595" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 checkout Reducer (36)
+<iframe src="https://player.vimeo.com/video/656332231" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Filter Reducer (46)
+<iframe src="https://player.vimeo.com/video/656332678" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Product Reducer (56)
+<iframe src="https://player.vimeo.com/video/656333674" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Profile & User Reducers (66)
+<iframe src="https://player.vimeo.com/video/656334398" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
