@@ -141,47 +141,78 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 1 Why is Custom render Necessary
 <iframe src="https://player.vimeo.com/video/656473971" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### 2 Custom render Concepts
 <iframe src="https://player.vimeo.com/video/656474198" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### 3 Planning Custom render with Test Store
 <iframe src="https://player.vimeo.com/video/656474410" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### 4 Writing Custom render with Test Store
 <iframe src="https://player.vimeo.com/video/656474725" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### 5 Using Custom render in Tests
 <iframe src="https://player.vimeo.com/video/656475478" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### 6 Adding React Router to Custom render
 <iframe src="https://player.vimeo.com/video/656475945" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### 7 Asserting on history Object
 <iframe src="https://player.vimeo.com/video/656476723" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### 8 OPTIONAL Behavior Testing for Redirect
 <iframe src="https://player.vimeo.com/video/656477547" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### 9 Code Quiz! historypush()
 <iframe src="https://player.vimeo.com/video/656478002" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### 10 OPTIONAL Redux State Code Quiz
 <iframe src="https://player.vimeo.com/video/656478698" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### 11 Custom router Summary
 <iframe src="https://player.vimeo.com/video/656478988" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-## 6. Writing Action Creators
+## 6. Testing Routes with URL and Query Params
 
-### 1 App & Auth Action Creators (16)
-<iframe src="https://player.vimeo.com/video/656325713" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Introduction to Testing Routes with URL and Query Params
+<iframe src="https://player.vimeo.com/video/656479327" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Basket & Checkout Action Creators (26)
-<iframe src="https://player.vimeo.com/video/656327889" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 OPTIONAL Introduction to Mock Service Worker
+<iframe src="https://player.vimeo.com/video/656479447" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Filter Action Creator (36)
-<iframe src="https://player.vimeo.com/video/656328619" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 OPTIONAL Setting up Mock Service Worker
+<iframe src="https://player.vimeo.com/video/656479650" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Product Action Creator (46)
-<iframe src="https://player.vimeo.com/video/656329337" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 OPTIONAL Testing Shows Component with Mock Service Worker
+<iframe src="https://player.vimeo.com/video/656480263" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Profile Action Creator (56)
-<iframe src="https://player.vimeo.com/video/656329990" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 OPTIONAL Code Quiz! Mock Service Worker for Sold-Out Show
+<iframe src="https://player.vimeo.com/video/656481264" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Users Action Creator (66)
-<iframe src="https://player.vimeo.com/video/656330718" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 Testing a Route with URL Params
+<iframe src="https://player.vimeo.com/video/656481494" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Writing Handler for Route with URL Params
+<iframe src="https://player.vimeo.com/video/656481737" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Testing Page Contents for Route with URL Params
+<iframe src="https://player.vimeo.com/video/656482165" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 Code Quiz! Page Contents of Route with URL Params
+<iframe src="https://player.vimeo.com/video/656482568" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 10 Redirecting to Route with URL Params
+<iframe src="https://player.vimeo.com/video/656483039" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 11 Redirecting to Route with URL and Query Params
+<iframe src="https://player.vimeo.com/video/656483880" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 12 Code Quiz! Bad Query Params
+<iframe src="https://player.vimeo.com/video/656484866" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 13 Review Routes with URL and Query Params
+<iframe src="https://player.vimeo.com/video/656485189" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
